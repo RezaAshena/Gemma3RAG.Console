@@ -1,0 +1,22 @@
+ Date     |   Category    |Amount
+--------------------------------
+2025-03-03| Entertainment |  175.83
+2025-07-18|      Shopping |  358.55
+2025-07-07|          Food |  257.03
+2025-06-02| Entertainment |   23.82
+2025-11-01| Entertainment |  201.49
+2025-11-08|          Food |  441.27
+2025-09-21|     Transport |  219.68
+2025-12-06|        Health |  136.55
+2025-06-20|     Transport |  198.62
+2025-03-22| Entertainment |  337.91
+2025-04-30| Entertainment |   53.92
+2025-12-22|         Other |  411.89
+2025-02-12|         Bills |  499.45
+2025-09-28|        Health |  167.56
+2025-09-29|         Other |  312.56
+2025-06-02|     Transport |  299.19
+2025-06-16| Entertainment |  415.24
+2025-07-30|         Bills |  370.42
+2025-06-04|      Shopping |  360.63
+2025-05-07| Entertainment |   12.02
